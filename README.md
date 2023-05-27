@@ -13,9 +13,10 @@ This repository contains a collection of projects demonstrating various aspects 
 To get started with any of these projects:
 
 1. Clone the repository:
+```
 git clone https://github.com/manikcloud/manik-gpt.git
 
-
+```
 
 2. Navigate to the desired project folder:
 ```
